@@ -8,7 +8,7 @@ public class SceneLoader : MonoBehaviour
 
     public void LoadSceneByName(string name)
     {
-        SceneManager.LoadScene(09-14-module 3-elsiempk);
+        SceneManager.LoadScene(name);
     }
 
 
